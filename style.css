@@ -1,3 +1,8 @@
+.formulario,
+.datos {
+    border: 1px solid black;
+}
+
 @keyframes hero-gradient-animation {
     0% {
         --s-start-0: 2%;
